@@ -31,7 +31,7 @@ const HeroSection = () => {
       <div className="space-y-6 text-center">
         <div className="space-y-6 mx-auto">
           <h1 className="text-5xl font-bold md:text-6xl lg:text-7xl xl:text-8xl gradient-title animate-gradient">
-Your AI-Powered Career Coach            <br />
+AI-Powered Career Coach            <br />
 to Unlock Your True Potential
           </h1>
           <p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl">
